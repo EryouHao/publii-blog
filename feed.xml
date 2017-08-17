@@ -3,7 +3,7 @@
     <title>feheycom</title>
     <link href="https://eryouhao.github.io/publii-blog/feed.xml" rel="self" />
     <link href="https://eryouhao.github.io/publii-blog" />
-    <updated>2017-08-17T14:08:46+08:00</updated>
+    <updated>2017-08-17T14:11:43+08:00</updated>
     <author>
         <name>EryouHao</name>
     </author>
@@ -17,10 +17,11 @@
         <link href="https://eryouhao.github.io/publii-blog/hello-world.html"/>
         <id>https://eryouhao.github.io/publii-blog/hello-world.html</id>
 
-        <updated>2017-08-17T13:46:03+08:00</updated>
+        <updated>2017-08-17T14:11:31+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://eryouhao.github.io/publii-blog/media/posts/1/27934860_1.jpg" alt="" />
                 hello world!
             ]]>
         </content>
